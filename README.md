@@ -1,2 +1,2 @@
-# UVU_DGM1610_Fall_2024
+# UVU_DGM1400_Fall_2024
 Scripting for gaming and animation
